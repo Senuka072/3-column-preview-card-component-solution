@@ -21,7 +21,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Links
 
-- Solution URL: ()
+- Solution URL: (https://github.com/Senuka072/3-column-preview-card-component-solution)
 - Live Site URL: ()
 
 ## Author
